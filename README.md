@@ -12,7 +12,10 @@ apt -y install python3-pip
 ```
 ## clone the application
 ```bash
-git clone 
+git clone https://github.com/utrains/bookshopflaskapp.git
+```
+```bash
+cd bookshopflaskapp
 ```
 ## Installation
 
