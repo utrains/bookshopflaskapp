@@ -44,5 +44,5 @@ flask run --host=0.0.0.0
 ```
 
 
-You can now visit the application on  http://youripaddress:5000 on your ip address
+You can now visit the application on  http://youripaddress:5000 
 ![Libray Management App - Flask](https://github.com/hamzaavvan/library-management-system/blob/master/ss/ss2.JPG?raw=true)
