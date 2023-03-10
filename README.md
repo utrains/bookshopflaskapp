@@ -25,7 +25,7 @@ cd bookshopflaskapp
 
 To run the app flawlessly, satisfy the requirements
 ```bash
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Set Environment Variables
@@ -43,9 +43,6 @@ ufw allow 5000
 flask run --host=0.0.0.0
 ```
 
-Or run this command 
-```bash
-python -m flask run
-```
-you can now visit the application on port 5000 on your ip address
+
+You can now visit the application on  http://youripaddress:5000 on your ip address
 ![Libray Management App - Flask](https://github.com/hamzaavvan/library-management-system/blob/master/ss/ss2.JPG?raw=true)
